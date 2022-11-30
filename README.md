@@ -1,24 +1,6 @@
 # Datalogic_Memor_X3
 
-![Screenshot](1234.mkv))
-
-![PXL_20211005_233827683](https://user-images.githubusercontent.com/26827453/204849041-fe1c6166-7755-4cdc-a603-84faaedc8b58.jpg)
-![PXL_20211006_000530806 MP](https://user-images.githubusercontent.com/26827453/204848642-46bd6ed2-2b5d-44a6-9298-d9b37ef65f3b.jpg)
-![PXL_20211006_000638032](https://user-images.githubusercontent.com/26827453/204848687-2755a84b-ac92-4558-bb17-756257a75e0b.jpg)
-![PXL_20211005_235008707](https://user-images.githubusercontent.com/26827453/204847475-cb8982cf-5925-440c-84d2-63b1ffb7b0b5.jpg)
-![PXL_20211005_235045655](https://user-images.githubusercontent.com/26827453/204847595-4e218032-dd85-47df-8212-43f189b653b0.jpg)
-![PXL_20211005_235451383](https://user-images.githubusercontent.com/26827453/204848030-b80e8cd6-2b0a-4906-924f-16c2d41c688f.jpg)
-![PXL_20211006_000037924](https://user-images.githubusercontent.com/26827453/204848274-c232c047-0659-48a6-8aa6-08033bbb81bf.jpg)
-
-
-![PXL_20211006_000215885](https://user-images.githubusercontent.com/26827453/204848493-a860c31e-840e-4fc4-b0e2-6a46c3ff9b81.jpg)
-![PXL_20211006_000238457](https://user-images.githubusercontent.com/26827453/204848568-11148998-ec60-4551-8c45-2400657af76d.jpg)
-![PXL_20211006_000245814](https://user-images.githubusercontent.com/26827453/204848576-06cfea3b-1d20-4290-b983-6162cabf7028.jpg)
-
-
-![spectacle_20221130_170533](https://user-images.githubusercontent.com/26827453/204854206-08c2d1db-d678-405b-8267-f80ca329db74.png)
-![spectacle_20221130_170425](https://user-images.githubusercontent.com/26827453/204854213-6a127503-ee4d-451e-9d43-6752d035a83a.png)
-![spectacle_20221130_170312](https://user-images.githubusercontent.com/26827453/204854216-4491253b-1e1f-40b0-85c5-00237e241c81.png)
+https://user-images.githubusercontent.com/26827453/204859955-b511d347-f060-4a62-80d8-820d6b764840.mp4
 
 Got this device but it was really simple to bypass the login and it's not much to write about this device really.
 
@@ -48,9 +30,7 @@ Got this device but it was really simple to bypass the login and it's not much t
 5) Enter 1 to proceed with the Clean Boot sequence. Enter 0 to cancel the Clean Boot and proceed with a Cold Boot
 
 
-
 ![PXL_20211005_234220391](https://user-images.githubusercontent.com/26827453/204847323-d1f8c423-d69f-42fb-8484-593cdadafaa0.jpg)
-
 
 ### X3 Warm Boot - To Warm Boot the Datalogic Memor:
 
@@ -80,6 +60,22 @@ Release the `keys` once the Datalogic Splash Screen appears.
 [DS-MEMORX3 Datasheet](https://www.datalogic.com/upload/marketlit/datasheets/DS-MEMORX3-EN.pdf)
 
 ![PXL_20211006_000533971 MP](https://user-images.githubusercontent.com/26827453/204842794-991f9cea-d183-4fc3-8758-3e21caee22cf.jpg)
+
+
+![PXL_20211005_233827683](https://user-images.githubusercontent.com/26827453/204849041-fe1c6166-7755-4cdc-a603-84faaedc8b58.jpg)
+![PXL_20211006_000530806 MP](https://user-images.githubusercontent.com/26827453/204848642-46bd6ed2-2b5d-44a6-9298-d9b37ef65f3b.jpg)
+![PXL_20211006_000638032](https://user-images.githubusercontent.com/26827453/204848687-2755a84b-ac92-4558-bb17-756257a75e0b.jpg)
+![PXL_20211005_235008707](https://user-images.githubusercontent.com/26827453/204847475-cb8982cf-5925-440c-84d2-63b1ffb7b0b5.jpg)
+![PXL_20211005_235045655](https://user-images.githubusercontent.com/26827453/204847595-4e218032-dd85-47df-8212-43f189b653b0.jpg)
+![PXL_20211005_235451383](https://user-images.githubusercontent.com/26827453/204848030-b80e8cd6-2b0a-4906-924f-16c2d41c688f.jpg)
+![PXL_20211006_000037924](https://user-images.githubusercontent.com/26827453/204848274-c232c047-0659-48a6-8aa6-08033bbb81bf.jpg)
+![PXL_20211006_000215885](https://user-images.githubusercontent.com/26827453/204848493-a860c31e-840e-4fc4-b0e2-6a46c3ff9b81.jpg)
+![PXL_20211006_000238457](https://user-images.githubusercontent.com/26827453/204848568-11148998-ec60-4551-8c45-2400657af76d.jpg)
+![PXL_20211006_000245814](https://user-images.githubusercontent.com/26827453/204848576-06cfea3b-1d20-4290-b983-6162cabf7028.jpg)
+![spectacle_20221130_170533](https://user-images.githubusercontent.com/26827453/204854206-08c2d1db-d678-405b-8267-f80ca329db74.png)
+![spectacle_20221130_170425](https://user-images.githubusercontent.com/26827453/204854213-6a127503-ee4d-451e-9d43-6752d035a83a.png)
+![spectacle_20221130_170312](https://user-images.githubusercontent.com/26827453/204854216-4491253b-1e1f-40b0-85c5-00237e241c81.png)
+
 ![PXL_20211006_000538274](https://user-images.githubusercontent.com/26827453/204842798-5ae3d818-481b-4f3d-9d65-d29bb64e204b.jpg)
 ![PXL_20211006_000632425](https://user-images.githubusercontent.com/26827453/204842835-90e51ac6-7ead-4671-9384-0cbd72e9abaf.jpg)
 ![PXL_20211006_000638032](https://user-images.githubusercontent.com/26827453/204842845-ff69ea6b-1329-4db3-8da6-ea1f58cc2fa2.jpg)
@@ -129,7 +125,6 @@ Release the `keys` once the Datalogic Splash Screen appears.
 ![PXL_20211005_235642282](https://user-images.githubusercontent.com/26827453/204842572-eeb49177-b879-4440-bcfa-44657fb13372.jpg)
 ![PXL_20211006_000031153](https://user-images.githubusercontent.com/26827453/204842672-75bb2cbf-603a-4ca4-b648-427aad73a04d.jpg)
 ![PXL_20211006_000033554](https://user-images.githubusercontent.com/26827453/204842678-13579cf8-712e-4ab6-90dd-4f3fc4f118ad.jpg)
-![PXL_20211006_000133759](https://user-images.githubusercontent.com/26827453/204842701-f9f52c3a-8424-4471-b861-c22aff5e1cc9.jpg)
 ![PXL_20211006_000140713 MP](https://user-images.githubusercontent.com/26827453/204842703-a52dd9c1-2571-410e-8f0c-f9f18739cf6c.jpg)
 ![PXL_20211006_000147536](https://user-images.githubusercontent.com/26827453/204842708-8bf8eb0c-d897-48d2-aa3f-8986143b4dd6.jpg)
 ![PXL_20211006_000149896](https://user-images.githubusercontent.com/26827453/204842711-5cb4a143-41ef-43fe-ba4e-2f8658bd97c9.jpg)
@@ -146,5 +141,8 @@ Release the `keys` once the Datalogic Splash Screen appears.
 
 ![PXL_20211006_000530806 MP](https://user-images.githubusercontent.com/26827453/204842755-cb9e3b5e-0414-4e69-941e-288693c42e73.jpg)
 
+## Wiki <small>author</small>
+
+* wuseman [wuseman@nr1.nu](mailto:wuseman@nr1.nu)
 
 
